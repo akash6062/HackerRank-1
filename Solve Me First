@@ -4,7 +4,8 @@
 #include <stdlib.h>
 
 int solveMeFirst(int a, int b) {
-    // Hint: Type return a+b; below
+    int sum=a+b;
+    return sum;
  
 }
 
