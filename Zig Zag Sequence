@@ -35,3 +35,4 @@ int main() {
         findZigZagSequence(a, n);
     }
 }
+
